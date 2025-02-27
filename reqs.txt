@@ -4,7 +4,7 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
 torch==2.2.0+cpu # 186.7 mb
-torchvision==0.17.0+cpu #1.6 mb?
+torchvision==0.17.0+cpu #1.6 mb
 
 numpy #==1.26.4 #18.0 mb
 scipy #==1.15.2 #37.3 mb
