@@ -8,8 +8,8 @@ pip install -r reqs.txt
 python Object_Detection.py
 ```
 ## notes
-you need to install the numpy downloaded and redownload the commented version inside the reqs.txt
-
+1) You need to install the numpy downloaded and redownload the commented version inside the reqs.txt
+2) After downloading the video from the link, do not forget to name it video.mp4 or change the name inside the code
 
 ## video source
 
