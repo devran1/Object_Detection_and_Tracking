@@ -1,0 +1,19 @@
+#python 3.12.9
+
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.2.0+cpu # 186.7 mb
+torchvision==0.17.0+cpu #1.6 mb?
+
+numpy #==1.26.4 #18.0 mb
+scipy #==1.15.2 #37.3 mb
+pygame #==2.0.1 #14.0 mb
+opencv-python #==4.11.0.86 #63.0 mb
+
+
+####it will download on its own
+#pillow==11.1.0 4.5/4.5 MB
+#networkx==3.4.2 #1.7 MB
+#sympy==1.13.3 #6.2 MB 
+#mpmath-1.3.0 #536.2 kB
